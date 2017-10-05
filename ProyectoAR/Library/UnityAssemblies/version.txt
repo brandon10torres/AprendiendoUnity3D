@@ -1,5 +1,5 @@
 2017.2.0b11:3.3.0.2
-StandaloneWindows64
+Android
 E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEditor.dll
 E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.dll
 E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll

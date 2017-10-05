@@ -11,7 +11,13 @@ public class customTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 	private Color colorMounstruoInicial;
 	private bool mounstruoEnojado = false;
 	public Animator animMounstruo;
-	// Use this for initialization
+
+    public GameObject panelAnimaciones;
+    public GameObject panelColores;
+
+
+
+    // Use this for initialization
     void Start ()
     {        
         if (mTrackableBehaviour)
@@ -37,13 +43,15 @@ public class customTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
     }
     void OnTrackingFound()
     {
-		
+        panelAnimaciones.SetActive(true);
+        panelColores.SetActive(true);
         print("Objecto encontrado");
 
     }
     void OnTrackingLost()
     {
-		
+        panelAnimaciones.SetActive(false);
+        panelColores.SetActive(false);
         print("Objecto perdido");
     }
 
