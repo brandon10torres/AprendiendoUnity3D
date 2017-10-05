@@ -57,7 +57,7 @@ public class customTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 
 	void OnMouseDown()
 	{
-		mounstruoEnojado = !mounstruoEnojado;
+		/*mounstruoEnojado = !mounstruoEnojado;
 		if (mounstruoEnojado) 
 		{			
 			mallaMounstruo.material.color = colorMounstruoEncontrado;
@@ -66,6 +66,6 @@ public class customTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 		else 
 		{
 			mallaMounstruo.material.color = colorMounstruoInicial;
-		}
+		}*/
 	}
 }
