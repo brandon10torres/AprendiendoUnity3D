@@ -1,0 +1,76 @@
+2017.2.0b11:3.3.0.2
+StandaloneWindows64
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEditor.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.WebModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+C:/Users/estrategas/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.16/UnityEngine.Advertisements.dll
+C:/Users/estrategas/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@0.0.17/UnityEngine.Analytics.dll
+C:/Users/estrategas/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.18/UnityEngine.Purchasing.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UIAutomation/Editor/UnityEditor.UIAutomation.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/Managed/UnityEditor.Graphs.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+E:/Brandon Torres/Unity 3.0/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Users/estrategas/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.16/Editor/UnityEditor.Advertisements.dll
+C:/Users/estrategas/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@0.0.17/Editor/UnityEditor.Analytics.dll
+C:/Users/estrategas/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.18/Editor/UnityEditor.Purchasing.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
