@@ -24,6 +24,10 @@ public class UIControl : MonoBehaviour
     public Color[] coloresMounstruo;
 
 
+    public MeshRenderer mallaEsfera;
+    public Texture[] imagenes360;
+
+
     // Use this for initialization
     void Start ()
     {
@@ -118,5 +122,14 @@ public class UIControl : MonoBehaviour
     }
 
 
+
+
+
+    //IMG 360
+    public void ActivarImagen360(int indexIMG)
+    {
+        //mallaEsfera.material.SetTexture("_MainTexture", imagenes360[indexIMG]);
+        mallaEsfera.material.mainTexture = imagenes360[indexIMG];
+    }
 
 }

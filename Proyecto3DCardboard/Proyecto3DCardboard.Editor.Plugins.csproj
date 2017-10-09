@@ -123,13 +123,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Proyecto3DCardboard.Plugins.csproj">
-      <Project>{CA423E3B-2987-04EF-91AC-C027C461666E}</Project>
-      <Name>Proyecto3DCardboard.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="Proyecto3DCardboard.csproj">
       <Project>{7EB96490-9824-74D6-1790-DB070420DE41}</Project>
       <Name>Proyecto3DCardboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="Proyecto3DCardboard.Plugins.csproj">
+      <Project>{CA423E3B-2987-04EF-91AC-C027C461666E}</Project>
+      <Name>Proyecto3DCardboard.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -152,6 +152,7 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\GoogleVR\Shaders\Video\VideoUnlitShader.shader" />
+    <None Include="Assets\Shaders\InwardShader.shader" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
