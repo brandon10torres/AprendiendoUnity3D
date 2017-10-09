@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class UIControl : MonoBehaviour
 {
+    public GameObject menuColores;
 
     public SkinnedMeshRenderer mallaMounstruo;
     public MeshRenderer mallaCubo;
@@ -16,8 +17,11 @@ public class UIControl : MonoBehaviour
 
     public Animator animCargaMounstruo;
     public Animator animCargaCubo;
+    public Animator animCerrarMenuColores;
 
     public float duracionCargaMounstruo = 0.80f;
+
+    public Color[] coloresMounstruo;
 
 
     // Use this for initialization
@@ -57,19 +61,35 @@ public class UIControl : MonoBehaviour
     public void CargaMounstruoHover()
     {
         animCargaMounstruo.Play("cargaOjo");
-        Invoke("EjecutarAccionCargaMounstruo", duracionCargaMounstruo);
+        Invoke("EjecutarAccionCargaMounstruo", duracionCargaMounstruo);  
+             
     }
 
     private void EjecutarAccionCargaMounstruo()
     {
-        mallaMounstruo.material.color = colorHoverMounstruo;
+        menuColores.SetActive(true);
+    }
+    private void EjecutarAcccionCerrarMenu()
+    {
+        menuColores.SetActive(false);
     }
 
     public void CargaMounstruoHoverExit()
     {
         CancelInvoke("EjecutarAccionCargaMounstruo");
-        animCargaMounstruo.Play("cargaOjoInicio");
-        mallaMounstruo.material.color = colorInicialMounstruo;
+        animCargaMounstruo.Play("cargaOjoInicio");        
+    }
+
+    public void MenuColoresHover()
+    {
+        animCerrarMenuColores.Play("cargaOjo");
+        Invoke("EjecutarAcccionCerrarMenu", duracionCargaMounstruo);
+    }
+
+    public void MenuColoresHoverExit()
+    {
+        CancelInvoke("EjecutarAcccionCerrarMenu");
+        animCerrarMenuColores.Play("cargaOjoInicio");
     }
 
 
@@ -92,6 +112,10 @@ public class UIControl : MonoBehaviour
     }
 
 
+    public void CambiarColorMounstruo(int numColor)
+    {
+        mallaMounstruo.material.color = coloresMounstruo[numColor];
+    }
 
 
 

@@ -152,6 +152,7 @@ fe76270bd84ec3b6f2f6f92c69cf69da Assembly-CSharp-firstpass.dll:UnityStandardAsse
 3cdbcbe3eecc7b2618bb53f62d0d1466 Assembly-CSharp.dll:.PagedScrollRect
 03f12694d8815c5c1846b514244afecc Assembly-CSharp.dll:.GvrAllEventsTrigger
 28a5483d106db7f927eb813991751cb6 Assembly-CSharp.dll:.disparoProyectil
+31b0a679529cf1747ba036d41667f769 Assembly-CSharp.dll:.UIControl
 a7d3c6c6948d99dd4116e659ddcf5ac4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.ButtonHandler
 8dcc2f1f2300fb8d73cea378ddc8fcc8 Assembly-CSharp.dll:.ChildrenPageProvider
 83877f03b51b3b13fa0d6c51291e0575 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.HeadBob
